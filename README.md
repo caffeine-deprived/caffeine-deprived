@@ -1,8 +1,8 @@
 - 🦇  I’m @caffeine-deprived
-- 🌱 fluent in html / css / javascript
-- 🐍 learning python
-- 🪐 I’m working on personal and academic projects
-- ☕️ probably ingesting caffeine!
+- 🪐 this page is for personal and academic projects
+- 🌱 I work in html / css / javascript
+- 🐍 currently doing higher-level python...
+- ☕️ ... and probably ingesting caffeine!
 
 <!---
 caffeine-deprived/caffeine-deprived is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
