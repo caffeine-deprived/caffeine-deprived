@@ -1,7 +1,7 @@
 - 🦇  I’m @caffeine-deprived
 - 🪐 this page is for personal and academic projects
-- 🌱 I work in html / css / javascript
-- 🐍 currently doing higher-level python...
+- 🌱 I'm learning in C / css / javascript
+- 🐍 fluent in python and HTML...
 - ☕️ ... and probably ingesting caffeine!
 
 <!---
