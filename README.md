@@ -1,6 +1,6 @@
 - 🦇  I’m @caffeine-deprived
 - 🪐 this page is for personal and academic projects
-- 🌱 I'm learning in C / css / javascript
+- 🌱 I use IDL / CSS / Javascript
 - 🐍 fluent in python and HTML...
 - ☕️ ... and probably ingesting caffeine!
 
